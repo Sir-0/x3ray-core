@@ -1,1 +1,7 @@
-git remote add origin <https://github.io/prux>
+$ git remote add origin https://github.com/Sir-0/sigma.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/Sir-0/sigma.git (fetch)
+> origin  https://github.com/Sir-0/sigma.git (push)
